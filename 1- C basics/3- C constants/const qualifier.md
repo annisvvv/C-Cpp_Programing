@@ -52,3 +52,59 @@ return 0;
 }
 ```
 ### Const pointer to variable
+this means the pointer itself is a constant variable, thus we cannot alter the pointer to point to another variable.
+
+```
+int* const ptr;
+```
+
+example :
+```
+#include <stdio.h>
+
+int main (){
+    int x = 30;
+    int z = 10;
+
+    int* const y = &x;
+
+    *y = 20; // this is possible
+    //y = &z; // // pointer cannot point to another variable
+
+    printf("%i", *y); //returns 20
+
+      // the * means the value of where the variable points to
+
+    // for example *y means the value where y points
+
+    // here y points to the address of z &z
+}
+```
+this example is the opposite of the example above.
+### constant pointer to constant 
+this is a combination of the two above, which means we cannot alter the value pointed to by the pointer, also the pointer cannot point to other variables.
+
+```
+const int* const ptr;
+```
+
+example:
+```
+#include <stdio.h>
+
+int main (){
+    int x = 30;
+    int z = 10;
+
+    const int* const y = &x;
+
+    //*y = 20; // this is not possible
+    //y = &z; // this is not possible
+
+    printf("%i", *y); //returns 20
+
+    // the * means the value of where the variable points to
+    // for example *y means the value where y points
+    // here y points to the address of z &z
+}
+```
