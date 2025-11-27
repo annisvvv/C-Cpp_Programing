@@ -1,19 +1,20 @@
-# Default syntax
-```
-#include <stdio.h>  
-  
-int main() {  
-	#code
-	
-	return 0; 
-}
-```
 # Escape sequence
-`\n` : New line
-`\t` : Create a horizontal tab
-`\\` : Inserts a backslash character (\)
-`\"` : Insert a double cote character
 
+| Escape sequence | Meaning                                  |
+| --------------- | ---------------------------------------- |
+| \\              | \ character                              |
+| \'              | ' character                              |
+| \"              | " character                              |
+| \?              | ? character                              |
+| \a              | Alert or bell                            |
+| \b              | Backspace                                |
+| \f              | Form feed                                |
+| \n              | Newline                                  |
+| \r              | Carriage return                          |
+| \t              | Horizontal tab                           |
+| \v              | Vertical tab                             |
+| \ooo            | Octal number of one to three digits      |
+| \xhh . . .      | Hexadecimal number of one or more digits |
 # Comments
 `//` : Write a comment
 `/*` # your code `*/`
