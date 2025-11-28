@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "7- Boolean"
             }
-          },
-          {
-            "id": "af59a1681845730e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1- C Fundamentals/2- C data types/10- Character arithmetic.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "10- Character arithmetic"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,6 +171,8 @@
   },
   "active": "e4ae3c0808179862",
   "lastOpenFiles": [
+    "1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
+    "1- C Fundamentals/2- C data types/10- Character Arithmetic.md",
     "1- C Fundamentals/2- C data types/10- Character arithmetic.pdf",
     "1- C Fundamentals/4- C operators/9- Ternary operator.md",
     "1- C Fundamentals/2- C data types/9- Integer promotion.md",
@@ -209,8 +198,6 @@
     "1- C Fundamentals/2- C data types/6- Extended types.md",
     "1- C Fundamentals/2- C data types/5- Type conversion.md",
     "zFiles/Pasted image 20251128052850.jpg",
-    "1- C Fundamentals/2- C data types/10- Character Arithmetic.md",
-    "1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
     "1- C Fundamentals/2- C data types/1- Data types.md",
     "6- Socket Programming/2- How it work.md",
     "6- Socket Programming/1- Step for a connexion.md",
