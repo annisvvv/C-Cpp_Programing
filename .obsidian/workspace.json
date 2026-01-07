@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/1- C Fundamentals/2- C data types/1- Data types.md",
+                "file": "C/1- C Fundamentals/2- C data types/2- Format specifier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Data types"
+              "title": "2- Format specifier"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struct",
+                "query": "decimzz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,9 +169,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4ae3c0808179862",
+  "active": "9202b644270802f2",
   "lastOpenFiles": [
+    "Pointers/why passing a pointer to a function.md",
     "C/1- C Fundamentals/1- C variable/1- Create variable.md",
+    "Pointers",
+    "C++/Socket programming/Server side.md",
+    "System calls/Common syscalls in c and c++.md",
+    "C++/2- I and O stream/1- Input Output operators.md",
+    "System calls",
+    "C++/2- I and O stream/3- cout.md",
+    "C++/2- I and O stream/2- cin.md",
+    "C++/5- Structure and Union/Structures.md",
+    "C++/5- Structure and Union",
+    "C/6- Socket Programming/Secure P2P Chat and File Transfer Application.md",
+    "C++/Socket programming",
+    "C/6- Socket Programming/3- Complete guide.md",
+    "C/6- Socket Programming/2- How it work.md",
+    "C/6- Socket Programming/1- Step for a connexion.md",
+    "C/1- C Fundamentals/2- C data types/1- Data types.md",
     "C++/3- Pointers/2- Smart pointers.md",
     "C++/3- Pointers/1- Pointers.md",
     "C/4- Working with memory/2- C pointers/3- Pointers and arrays.md",
@@ -180,9 +196,6 @@
     "C++/4- Arrays",
     "C++/2- I and O stream/4- Manipulators.md",
     "C++/3- Pointers",
-    "C++/2- I and O stream/3- cout.md",
-    "C++/2- I and O stream/2- cin.md",
-    "C++/2- I and O stream/1- Input Output operators.md",
     "C++/2- I and O stream",
     "C++/1- Basics/3- constants.md",
     "C++/1- Basics/1- Getting started.md",
@@ -194,19 +207,6 @@
     "C/7- C Memory management/2- Storage classes.md",
     "C/4- Working with memory/2- C pointers/Additional information.md",
     "C/2- C Decision making/4- C for loop/1- For loop.md",
-    "C/1- C Fundamentals/5- C arrays/1- Arrays.md",
-    "C/1- C Fundamentals/5- C arrays/4- Multidimensional arrays.md",
-    "C/1- C Fundamentals/5- C arrays/3- Array loop.md",
-    "C/1- C Fundamentals/5- C arrays/2- Array size.md",
-    "C/6- Socket Programming/3- Complete guide.md",
-    "C/6- Socket Programming/2- How it work.md",
-    "C/6- Socket Programming/1- Step for a connexion.md",
-    "C/5- C with Assembly/Standalone assembly.md",
-    "C/5- C with Assembly/GCC Inline Assembly.pdf",
-    "C/3- C functions/2- Function parameters.md",
-    "C/7- C Memory management",
-    "C/2- C Decision making/6- C do while loop",
-    "C/1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
     "zFiles/Pasted image 20251128052850.jpg"
   ]
 }
