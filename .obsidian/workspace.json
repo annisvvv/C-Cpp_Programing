@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Methods/(.erase).md",
+                "file": "C++/6- Libraries/Free functions/getline().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(.erase)"
+              "title": "getline()"
             }
           }
         ]
@@ -169,22 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "9202b644270802f2",
+  "active": "e4ae3c0808179862",
   "lastOpenFiles": [
-    "C++/Methods/(.pop_back).md",
-    "C++/Methods/(.erase).md",
-    "C++/Methods/(.substr).md",
-    "C++/Methods/list of methods.md",
-    "C++/Free functions/getline().md",
-    "C++/Free functions/list of free functions.md",
-    "C++/Containers/stack.md",
-    "C++/Containers/map.md",
+    "C++/6- Libraries/Containers/map.md",
+    "C++/6- Libraries/Containers/list of containers.md",
+    "C++/6- Libraries/StringStreams.md",
+    "C++/6- Libraries/Methods/(.substr).md",
+    "C++/6- Libraries/Methods/(.pop_back).md",
+    "C++/6- Libraries/Methods/(.erase).md",
+    "C++/6- Libraries/Containers/stack.md",
+    "C++/6- Libraries/Free functions/getline().md",
+    "C++/6- Libraries/Methods/list of methods.md",
+    "C++/6- Libraries",
+    "C++/6- Libraries/Free functions/list of free functions.md",
     "C++/sites.md",
-    "C++/Containers/list of containers.md",
-    "C++/Free functions",
-    "C++/Methods",
+    "C++/6- Libraries/Free functions",
+    "C++/6- Libraries/Methods",
     "Pointers/why passing a pointer to a function.md",
-    "C++/Containers",
+    "C++/6- Libraries/Containers",
     "zFiles/Pasted image 20251128052850.jpg",
     "System calls/Common syscalls in c and c++.md",
     "C++/4- Arrays/Vector.md",
@@ -204,9 +206,7 @@
     "C/6- Socket Programming/2- How it work.md",
     "C/6- Socket Programming/1- Step for a connexion.md",
     "C/1- C Fundamentals/2- C data types/1- Data types.md",
-    "C++/3- Pointers/2- Smart pointers.md",
     "C++/4- Arrays",
-    "C++/3- Pointers",
-    "C++/2- I and O stream"
+    "C++/3- Pointers"
   ]
 }
